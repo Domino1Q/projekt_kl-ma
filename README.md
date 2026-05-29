@@ -4,7 +4,7 @@ Komplexní webová aplikace pro organizaci, správu a archivaci sportovních tur
 
 Klíčové vlastnosti
 
-* **Role uživatelů:** *  *Administrátor* (plná správa turnaje, zadávání výsledků, ukládání do DB)
+* **Role uživatelů:**  *Administrátor* (plná správa turnaje, zadávání výsledků, ukládání do DB)
 * **Automatizace turnaje:**
   * Generátor náhodných týmů.
   * Automatický rozpis zápasů ve skupině, každý s každým.
